@@ -21,15 +21,15 @@ set -e
 #   You should have received a copy of the GNU General Public License                #
 #   along with this program.  If not, see <https://www.gnu.org/licenses/>.           #
 #                                                                                    #
-# https://github.com/pterodactyl-installer/pterodactyl-installer/blob/master/LICENSE #
+# https://github.com/OverMind79/pterodactyl-installer/blob/master/LICENSE #
 #                                                                                    #
 # This script is not associated with the official Pterodactyl Project.               #
-# https://github.com/pterodactyl-installer/pterodactyl-installer                     #
+# https://github.com/OverMind79/pterodactyl-installer                     #
 #                                                                                    #
 ######################################################################################
 
 export GITHUB_SOURCE="master"
-export GITHUB_BASE_URL="https://raw.githubusercontent.com/pterodactyl-installer/pterodactyl-installer"
+export GITHUB_BASE_URL="https://raw.githubusercontent.com/OverMind79/pterodactyl-installer"
 export CONFIGURE_FIREWALL=true
 export CONFIGURE_DBHOST=true
 export INSTALL_MARIADB=true
